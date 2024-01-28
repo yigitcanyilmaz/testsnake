@@ -1,0 +1,10 @@
+C:\Users\vakel\OneDrive\Masaüstü\SnakeGameYigit\bin\Debug\SnakeGameYigit.exe.config
+C:\Users\vakel\OneDrive\Masaüstü\SnakeGameYigit\bin\Debug\SnakeGameYigit.exe
+C:\Users\vakel\OneDrive\Masaüstü\SnakeGameYigit\bin\Debug\SnakeGameYigit.pdb
+C:\Users\vakel\OneDrive\Masaüstü\SnakeGameYigit\obj\Debug\SnakeGameYigit.csproj.AssemblyReference.cache
+C:\Users\vakel\OneDrive\Masaüstü\SnakeGameYigit\obj\Debug\SnakeGameYigit.Form1.resources
+C:\Users\vakel\OneDrive\Masaüstü\SnakeGameYigit\obj\Debug\SnakeGameYigit.Properties.Resources.resources
+C:\Users\vakel\OneDrive\Masaüstü\SnakeGameYigit\obj\Debug\SnakeGameYigit.csproj.GenerateResource.cache
+C:\Users\vakel\OneDrive\Masaüstü\SnakeGameYigit\obj\Debug\SnakeGameYigit.csproj.CoreCompileInputs.cache
+C:\Users\vakel\OneDrive\Masaüstü\SnakeGameYigit\obj\Debug\SnakeGameYigit.exe
+C:\Users\vakel\OneDrive\Masaüstü\SnakeGameYigit\obj\Debug\SnakeGameYigit.pdb
